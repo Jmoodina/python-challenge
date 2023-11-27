@@ -2,10 +2,10 @@
 
 ## PyBank: Financial Analysis Script
 
-##Objective:
+## Objective:
 The objective of PyBank was to create a Python script to analyze financial records from the budget_data.csv dataset, calculating key metrics.
 
-###Steps Completed:
+### Steps Completed:
 
 1. Read and Load Dataset:
 
@@ -55,7 +55,7 @@ Developed code to identify the winner of the election based on popular vote.
 Printed the election results to the terminal.
 Exported a text file with the analysis results.
 
-##Conclusion:
+## Conclusion:
 Both PyBank and PyPoll scripts have been successfully completed, providing accurate financial analysis and vote counting results. The Python scripts are designed to be reusable, enhancing efficiency in future analyses.
 
 PyBank Extra Information: 
