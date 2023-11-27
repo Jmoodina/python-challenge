@@ -1,6 +1,6 @@
-#Project Completion Report: Python Financial Analysis and Vote Counting Scripts
+# Project Completion Report: Python Financial Analysis and Vote Counting Scripts
 
-##PyBank: Financial Analysis Script
+## PyBank: Financial Analysis Script
 
 ##Objective:
 The objective of PyBank was to create a Python script to analyze financial records from the budget_data.csv dataset, calculating key metrics.
@@ -28,11 +28,11 @@ Developed code to identify the month and amount for the greatest increase and de
 Printed the financial analysis results to the terminal.
 Exported a text file with the analysis results.
 
-##PyPoll: Vote Counting Script
-###Objective:
+## PyPoll: Vote Counting Script
+### Objective:
 The goal of PyPoll was to create a Python script to modernize the vote-counting process using the election_data.csv dataset.
 
-###Steps Completed:
+### Steps Completed:
 
 1. Read and Load Dataset:
 
