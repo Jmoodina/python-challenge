@@ -6,25 +6,23 @@
 The objective of PyBank was to create a Python script to analyze financial records from the budget_data.csv dataset, calculating key metrics.
 
 ### Steps Completed:
-
 1. Read and Load Dataset:
-
 Implemented Python code to read and load the budget_data.csv dataset, consisting of "Date" and "Profit/Losses" columns.
+
 2. Calculate Total Months:
-
 Developed code to calculate the total number of months included in the dataset.
+
 3. Calculate Net Total Amount:
-
 Created code to compute the net total amount of "Profit/Losses" over the entire period.
-4. Calculate Changes and Average Change:
 
+4. Calculate Changes and Average Change:
 Computed the changes in "Profit/Losses" over the entire period.
 Calculated the average of those changes.
+
 5. Identify Greatest Increase and Decrease:
-
 Developed code to identify the month and amount for the greatest increase and decrease in profits over the entire period.
-6. Print and Export Results:
 
+6. Print and Export Results:
 Printed the financial analysis results to the terminal.
 Exported a text file with the analysis results.
 
