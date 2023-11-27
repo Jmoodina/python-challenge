@@ -35,29 +35,29 @@ The goal of PyPoll was to create a Python script to modernize the vote-counting 
 ### Steps Completed:
 
 1. Read and Load Dataset:
-
 Implemented Python code to read and load the election_data.csv dataset, containing "Voter ID," "County," and "Candidate" columns.
+
 2. Calculate Total Votes:
-
 Developed code to calculate the total number of votes cast.
-3. List Candidates and Calculate Percentages:
 
+3. List Candidates and Calculate Percentages:
 Created code to generate a list of candidates who received votes.
 Calculated the percentage of votes each candidate won.
+
 4. Calculate Total Votes per Candidate:
-
 Computed the total number of votes each candidate won.
+
 5. Identify Winner:
-
 Developed code to identify the winner of the election based on popular vote.
-6. Print and Export Results:
 
+6. Print and Export Results:
 Printed the election results to the terminal.
 Exported a text file with the analysis results.
 
 ## Conclusion:
 Both PyBank and PyPoll scripts have been successfully completed, providing accurate financial analysis and vote counting results. The Python scripts are designed to be reusable, enhancing efficiency in future analyses.
 
+### Notes
 PyBank Extra Information: 
 I was unable to match the average resulted posted on the module assignment.
 I wrote notes on my step by step coding with pybank in my coding file. 
