@@ -2,7 +2,7 @@
 
 ## PyBank: Financial Analysis Script
 
-## Objective:
+### Objective:
 The objective of PyBank was to create a Python script to analyze financial records from the budget_data.csv dataset, calculating key metrics.
 
 ### Steps Completed:
