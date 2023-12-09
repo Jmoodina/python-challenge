@@ -17,7 +17,7 @@ Created code to compute the net total amount of "Profit/Losses" over the entire 
 
 4. Calculate Changes and Average Change:
 Computed the changes in "Profit/Losses" over the entire period.
-Calculated the average of those changes.
+Calculated the average of those changes
 
 5. Identify Greatest Increase and Decrease:
 Developed code to identify the month and amount for the greatest increase and decrease in profits over the entire period.
